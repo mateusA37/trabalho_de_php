@@ -20,6 +20,10 @@
                     </tr>
                 </thead>
                 <tbody>
+
+
+
+                
                     <tr class="border-b">
                         <td class="py-2 px-4"><img class="w-20 h-20 object-cover" src="https://via.placeholder.com/150" alt="Notícia 1"></td>
                         <td class="py-2 px-4 text-sm text-gray-700">Ben 10 rebult foi cancelado</td>
